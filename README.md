@@ -1,3 +1,3 @@
 # Git-workshop
 StartingRepository voor een Git-workshop voor non-developer
-This is the repo of Norbert.
+This is the repo of NorbertGitHub.
